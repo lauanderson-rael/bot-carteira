@@ -1,10 +1,10 @@
 
 # Como rodar:
-- OBS: A capcha impediu o funcionamento completo do codigo durante os testes :(
 - Tenha o python instalado
 - Baixe o projeto
-- instale a biblioteca selenium, digite no terminal --> pip install selenium
-- instale a biblioteca pyautogui, digite no terminal --> pip install pyautogui
+- Instale a biblioteca pyautogui, digite no terminal --> pip install pyautogui
+- Instale a biblioteca customtkinter, digite no terminal --> pip install customtkinter
+- Teste o app, digite no terminal --> app.py
 
 ### Criar executavel (Opcional)
 - Instale a biblioteca pyinstaller, digite no terminal --> pip install pyinstaller
