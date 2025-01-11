@@ -29,7 +29,7 @@ def baixar_carteira(cpf, senha, resolucao):
     else:
         print("Botão de 'entrar' nao encontrado")
 
-    #fechar pop-up de permissão de localização (se existir)
+    #fechar pop-up de permissão de localização
     try:
         icone_localizacao = py.locateOnScreen(f'{resolucao}/icon-local.png', confidence=0.8)
         if icone_localizacao:
